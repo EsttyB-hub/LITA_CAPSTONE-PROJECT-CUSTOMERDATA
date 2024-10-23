@@ -1,0 +1,2 @@
+# LITA_CAPSTONE-PROJECT-CUSTOMERDATA
+For my LITA_CAPSTONE Project on Customer data
