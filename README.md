@@ -33,7 +33,7 @@ The tools and method used in this project analysis include:
 
 
 ## SQL
-```SQL```
+```SQL
 
 
 SELECT * from [dbo].[LITA_CUSTOMERDATA DD]
