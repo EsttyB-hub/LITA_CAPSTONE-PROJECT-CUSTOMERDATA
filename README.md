@@ -23,16 +23,17 @@ The tools and method used in this project analysis include:
 1. Excel: Using Excel formulas to calculate the key metrics.
 2. Pivot table: where the project is summarised in an understandable manner.
 3. SQL: where queries are written and validated to extract key insights.
-4. Power BI: This is used for data visualization of the insights found in Excel & SQL.
+4. Github: For building of Portfolio
+5. Power BI: This is used for data visualization of the insights found in Excel & SQL.
 
 ## Visual Analysis and Inference
+
+This is where we include some basic lines of codes or queries and some of the DAX functions to make the project presentable.
 
 ### 1. Total sales by product
 
 
-## Power BI Visualization
 
-![Screenshot (119)](https://github.com/user-attachments/assets/22bb083e-5e4f-4e39-823a-2f9384437415)
 
 
 
