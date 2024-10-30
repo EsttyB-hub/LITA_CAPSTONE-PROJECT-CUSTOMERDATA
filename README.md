@@ -96,8 +96,11 @@ where Canceled = 'TRUE'
 SELECT count (*) As Active_Subscription
 from [dbo].[LITA_CUSTOMERDATA DD]
 where Canceled = 'FALSE'
+```
 
 
+## Power BI Visualization
 
+![Screenshot (119)](https://github.com/user-attachments/assets/22bb083e-5e4f-4e39-823a-2f9384437415)
 
 
