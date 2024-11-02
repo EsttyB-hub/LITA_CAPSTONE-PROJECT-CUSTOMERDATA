@@ -42,7 +42,7 @@ The tools and method used in this project analysis include:
 4. Github: For building of Portfolio
 5. Power BI: This is used for data visualization of the insights found in Excel & SQL.
 
-## Data Analysis and Inference
+## Data Analysis 
 
 This is where we include some basic lines of codes or queries and some of the DAX functions to make the project presentable.
 
@@ -58,7 +58,7 @@ This is where we include some basic lines of codes or queries and some of the DA
 
 ### 2. Average Sales by Subscription Type
 
-![Screenshot (113)](https://github.com/user-attachments/assets/839a2319-c99a-4c35-8ef3-e6ba0a8fa03c)
+![Screenshot (140)](https://github.com/user-attachments/assets/341245a0-994d-4415-ab0c-0cacec4520a7)
 
 ### 3. Total Sales by Region
 
@@ -74,16 +74,12 @@ This is where we include some basic lines of codes or queries and some of the DA
 
 ### 6. Popular Subscription Type in each month
 
+![Screenshot (117)](https://github.com/user-attachments/assets/982901b9-34bd-4fc4-97b6-3b2192ed1bd9)
+![Screenshot (118)](https://github.com/user-attachments/assets/052554b0-43e1-4c08-bf1f-f1810e15004c)
 
+### 7. Subscription Type by count of Duration
 
-
-
-
-
-
-
-
-
+![Screenshot (116)](https://github.com/user-attachments/assets/789cbe7f-dd72-48a9-b3b7-40d2026d405d)
 
 
 ## SQL
@@ -151,4 +147,5 @@ where Canceled = 'FALSE'
 
 ![Screenshot (119)](https://github.com/user-attachments/assets/22bb083e-5e4f-4e39-823a-2f9384437415)
 
+## Inference
 
