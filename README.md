@@ -75,6 +75,7 @@ This is where we include some basic lines of codes or queries and some of the DA
 ### 6. Popular Subscription Type in each month
 
 ![Screenshot (117)](https://github.com/user-attachments/assets/982901b9-34bd-4fc4-97b6-3b2192ed1bd9)
+
 ![Screenshot (118)](https://github.com/user-attachments/assets/052554b0-43e1-4c08-bf1f-f1810e15004c)
 
 ### 7. Subscription Type by count of Duration
