@@ -46,7 +46,38 @@ The tools and method used in this project analysis include:
 
 This is where we include some basic lines of codes or queries and some of the DAX functions to make the project presentable.
 
+## Excel Analysis
+
+![Screenshot (138)](https://github.com/user-attachments/assets/c3506b4a-6251-47c2-8022-97a93c103313)
+
+## Pivot Table Summarization
+
 ### 1. Total sales by Subscription type
+
+![Screenshot (112)](https://github.com/user-attachments/assets/e296abca-02cd-4bce-b6ff-fc2e53ccbdb4)
+
+### 2. Average Sales by Subscription Type
+
+![Screenshot (113)](https://github.com/user-attachments/assets/839a2319-c99a-4c35-8ef3-e6ba0a8fa03c)
+
+### 3. Total Sales by Region
+
+![Screenshot (114)](https://github.com/user-attachments/assets/e418c69f-ad44-46c4-a492-8077b375e6e3)
+
+### 4. Revenue by Active and Canceled Subscription
+
+![Screenshot (139)](https://github.com/user-attachments/assets/d2618ef5-1c78-409e-b6f0-ae7feee0474a)
+
+### 5. The overall popular subscription Type
+
+![Screenshot (115)](https://github.com/user-attachments/assets/1dc765bb-399b-4f25-b446-c7d2684e5350)
+
+### 6. Popular Subscription Type in each month
+
+
+
+
+
 
 
 
