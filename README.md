@@ -62,7 +62,7 @@ This is where we include some basic lines of codes or queries and some of the DA
 
 ### 3. Total Sales by Region
 
-![Screenshot (114)](https://github.com/user-attachments/assets/e418c69f-ad44-46c4-a492-8077b375e6e3)
+![Screenshot (142)](https://github.com/user-attachments/assets/2d2531e1-5362-4bfd-9750-62d4a089f300)
 
 ### 4. Revenue by Active and Canceled Subscription
 
@@ -81,6 +81,10 @@ This is where we include some basic lines of codes or queries and some of the DA
 ### 7. Subscription Type by count of Duration
 
 ![Screenshot (116)](https://github.com/user-attachments/assets/789cbe7f-dd72-48a9-b3b7-40d2026d405d)
+
+### 8. Revenue per year
+
+![Screenshot (141)](https://github.com/user-attachments/assets/99f5ef23-f920-493e-9bc1-6bec8ce16447)
 
 
 ## SQL
@@ -149,4 +153,13 @@ where Canceled = 'FALSE'
 ![Screenshot (119)](https://github.com/user-attachments/assets/22bb083e-5e4f-4e39-823a-2f9384437415)
 
 ## Inference
+
+- Revenue Trend: By comparing the year 2022 with Year 2023, it was established that the company recorded a significant decrease in revenue generation. The revenue moved than from #89,902,969.00 to #59,916,717.00 representing 33% decrease. This raises a concern as to the reason for a drop in revenue generation. The reasons for a decline in revenue include but not limited to: decrease in demand for subscription type, increase in price, Increase in competitors, poor marketing, poor customer service.
+
+- Regional breakdown: From the Analysis here, South region has the highest revenue of #37,580,782.00. The other regions are also doing well as the revenue are in a closed range.
+
+- Subscription Type: Basic is the most popular of the subscription types based on the revenue it generated.  Reason might be because it is economical in nature than the rest.
+
+
+
 
