@@ -1,12 +1,19 @@
 # LITA_CAPSTONE-PROJECT-CUSTOMERDATA
 
 [Project Overview](Project-Overview)
+
 [Data Analyzed](Data-Analyzed)
+
 [Project Objectives](Project-Objectives)
+
 [Key Metrics](Key-Metrics)
+
 [Tools and Method used](Tools-and-Method-used)
+
 [Data Analysis ](Data-Analysis)
+
 [Inference](Inference)
+
 [Conclusion](Conclusion)
 
 ## Project Overview
