@@ -1,5 +1,14 @@
 # LITA_CAPSTONE-PROJECT-CUSTOMERDATA
 
+[Project Overview](Project-Overview)
+[Data Analyzed](Data-Analyzed)
+[Project Objectives](Project-Objectives)
+[Key Metrics](Key-Metrics)
+[Tools and Method used](Tools-and-Method-used)
+[Data Analysis ](Data-Analysis)
+[Inference](Inference)
+[Conclusion](Conclusion)
+
 ## Project Overview
 
 This project involves analyzing the customer data for a subscription service. This data analysis project aims to identify key customers segments and sales trend over the years. By analyzing the data sets given, we will be able to gather enough insights to be able to make an informed decision thereby knowing the best performance from our data.
@@ -15,7 +24,7 @@ The datasets used for this project include the following:
 - Canceled: This recorded the subscription that were canceled and those they were subscribed for.
 - Revenue: This shows the revenue generated on all the subscription types for the periods covered.
 
-## Project Objective
+## Project Objectives
 
 The project emphasizes on achieving the following goals:
 - understanding the customer behaviours as regards to different subscription types.
@@ -23,7 +32,6 @@ The project emphasizes on achieving the following goals:
 - identify key trends in cancellation and renewal.
 - knowing the revenue generated in each region.
 - identify the subscription type with the highest revenue.
-
 
 ## Key Metrics
 
@@ -160,6 +168,8 @@ where Canceled = 'FALSE'
 
 - Subscription Type: Basic is the most popular of the subscription types based on the revenue it generated.  Reason might be because it is economical in nature than the rest.
 
+## Conclusion
 
+It is confirmed that this service company experienced a notable drop in its revenue allocation by comparing the two years. Reasons for this are not limited to market changes, Pricing issues, decrease in demand, poor marketing, product issues, poor customer service, economic factors and internal management problems. The company is expected to provide solutions to the problems affecting the increase in revenue so as to remain in the market. Strategies to adopt include thorough market research, pricing strategy, improve customer service, invest in effective marketing campaigns, review and optimize operational costs, acting on customer feedback, partnership and collaborations among others. Implementing these solutions will help in addressing the root causes of significant decline in revenue and set the business on a path to recovery and growth.
 
 
