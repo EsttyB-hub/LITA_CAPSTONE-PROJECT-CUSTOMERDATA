@@ -120,22 +120,11 @@ SELECT Top 1 SubscriptionType, count (CustomerId) as NumberOfCustomers
 from [dbo].[LITA_CUSTOMERDATA DD]
 group by SubscriptionType
 
---- customers who canceled their subscription within 6 months----
-
- 
-
-
 ---calculate the average subscription duration for all customers----
 
 SELECT CustomerId, AVG (Subscription_Duration) as Average_SubscriptionDuration
 from [dbo].[LITA_CUSTOMERDATA DD]
 group by CustomerID
-
-
-
-----find customers with subscriptions longer than 12 months---
-
-
 
 -----calculate total revenue by subscription type----
 
@@ -177,6 +166,6 @@ where Canceled = 'FALSE'
 
 ## Conclusion
 
-It is confirmed that this service company experienced a notable drop in its revenue allocation by comparing the two years. Reasons for this are not limited to market changes, Pricing issues, decrease in demand, poor marketing, product issues, poor customer service, economic factors and internal management problems. The company is expected to provide solutions to the problems affecting the increase in revenue so as to remain in the market. Strategies to adopt include thorough market research, pricing strategy, improve customer service, invest in effective marketing campaigns, review and optimize operational costs, acting on customer feedback, partnership and collaborations among others. Implementing these solutions will help in addressing the root causes of significant decline in revenue and set the business on a path to recovery and growth.
+It is confirmed that this service company experienced a notable drop in its revenue generation by comparing the two years. Reasons for this are not limited to market changes, Pricing issues, decrease in demand, poor marketing, product issues, poor customer service, economic factors and internal management problems. The company is expected to provide solutions to the problems affecting the increase in revenue so as to remain in the market. Strategies to adopt include thorough market research, pricing strategy, improve customer service, invest in effective marketing campaigns, review and optimize operational costs, acting on customer feedback, partnership and collaborations among others. Implementing these solutions will help in addressing the root causes of significant decline in revenue and set the business on a path to recovery and growth.
 
 
