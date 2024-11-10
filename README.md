@@ -158,7 +158,7 @@ where Canceled = 'FALSE'
 
 ## Inference
 
-- Revenue Trend: By comparing the year 2022 with Year 2023, it was established that the company recorded a significant decrease in revenue generation. The revenue moved than from #89,902,969.00 to #59,916,717.00 representing 33% decrease. This raises a concern as to the reason for a drop in revenue generation. The reasons for a decline in revenue include but not limited to: decrease in demand for subscription type, increase in price, Increase in competitors, poor marketing, poor customer service.
+- Revenue Trend: By comparing the year 2022 with Year 2023, it was established that the company recorded a significant decrease in revenue generation. The revenue moved down from #89,902,969.00 to #59,916,717.00 representing 33% decrease. This raises a concern as to the reason for a drop in revenue generation. The reasons for a decline in revenue include but not limited to: decrease in demand for subscription type, increase in price, Increase in competitors, poor marketing, poor customer service.
 
 - Regional breakdown: From the Analysis here, South region has the highest revenue of #37,580,782.00. The other regions are also doing well as the revenue are in a closed range.
 
